@@ -1,3 +1,1 @@
-<h1>Smogon</h1>
-
-<a href='https://fjoao9744.github.io/Site2023/Site/index.html'>clique aqui</a>
+Ola! esse repositorio é referente a um site que serve para colocar anotações minhas durante minha aprendizagem de tecnologias
